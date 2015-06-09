@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 microblog
 =========
 
@@ -15,3 +16,7 @@ Running
 
 To run the application in the development web server just execute `run.py` with the Python interpreter from the flask virtual environment.
 
+=======
+# TSC-ShippingDetails
+Simple Web App using Python and Flask to return shipment specifics
+>>>>>>> 870397ffc32f7fa0838625c01e6f925c4576ad47
